@@ -406,6 +406,7 @@ nav ul li a {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  background-color: #cec7c7;
 }
 
 #portfolio .portfolio-list {
